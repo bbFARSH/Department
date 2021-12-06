@@ -1,0 +1,4 @@
+class Worker     | Pinkman   |Jessie         |22   |SalaryWorker    |      12y|                                     15000rub|
+class SalaryWorker | White     |Walter         |50   |Worker          |      15y|     180hour|    1000rub/hour|-6.27744e+66rub|
+class Worker     | Diaz      |Ricardo        |55   |SalaryWorker    |      34y|                                     30000rub|
+class SalaryWorker | Eistein   |Albert         |54   |Worker          |      25y|     180hour|    1500rub/hour|-6.27744e+66rub|
